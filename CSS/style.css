@@ -17,7 +17,7 @@ img {
 .navbar {
     height: 100px;
     background: rgb(0, 21, 64);
-    background: linear-gradient(0deg, rgba(0, 21, 64, 1) 8%, rgba(21, 40, 123, 1) 47%, rgba(22, 41, 125, 1) 48%, rgba(59, 74, 228, 1) 100%);
+    background: linear-gradient(90deg, rgba(0, 21, 64, 1) 0%, rgba(21, 40, 123, 1) 0%, rgba(59, 74, 228, 1) 25%, rgba(22, 41, 125, 1) 100%);
     color: white;
     border-radius: 25px;
     border: 2px solid black;
